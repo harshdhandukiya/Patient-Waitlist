@@ -13,7 +13,7 @@ I designed and implemented an application to analyze patient wait times, offerin
 **Download the Dashboard**
 Due to file size limitations, the .pbix file cannot be previewed directly on GitHub. You can download it from the repository and open it with Power BI Desktop.
 
-Download Project.pbix
+Patient Wait List.pbix
 
 **How to Use**
 1. Download and install Power BI Desktop.
