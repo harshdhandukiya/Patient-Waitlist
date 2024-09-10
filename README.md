@@ -1,14 +1,14 @@
-Power BI Dashboard: Patient Waitlist Dashboard
+**Power BI Dashboard: Patient Waitlist Dashboard**
 
-Overview:
+**Overview:**
 I designed and implemented an application to analyze patient wait times, offering detailed insights by case type, age, and archive date to track historical trends and improve patient flow management. The application features advanced filtering options, real-time data visualizations, and customizable reports, providing actionable insights for resource management and strategic planning, ultimately optimizing patient care processes.
 
-Key Features:
-Comprehensive Data Analysis: Provides detailed breakdowns of patient wait times by case type, age profile, and archive date for tracking historical trends.
-Advanced Filtering Options: Allows users to customize data views by specialty, source, case type, and other criteria, improving data accessibility.
-Interactive Visualizations: Features real-time data updates and interactive visualizations for actionable insights into patient flow and resource management.
-Customizable Reporting: Supports customizable data views and export functionality for generating detailed reports and further analysis.
-Enhanced Business Process Optimization: Designed to improve patient care and operational efficiency through data-driven insights and strategic planning.
+**Key Features:**
+1. Comprehensive Data Analysis: Provides detailed breakdowns of patient wait times by case type, age profile, and archive date for tracking historical trends.
+2. Advanced Filtering Options: Allows users to customize data views by specialty, source, case type, and other criteria, improving data accessibility.
+3. Interactive Visualizations: Features real-time data updates and interactive visualizations for actionable insights into patient flow and resource management.
+4. Customizable Reporting: Supports customizable data views and export functionality for generating detailed reports and further analysis.
+5. Enhanced Business Process Optimization: Designed to improve patient care and operational efficiency through data-driven insights and strategic planning.
 
 **Download the Dashboard**
 Due to file size limitations, the .pbix file cannot be previewed directly on GitHub. You can download it from the repository and open it with Power BI Desktop.
